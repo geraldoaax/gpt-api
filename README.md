@@ -80,3 +80,7 @@ Abra um Pull Request para este repositório.
 ## Agradecimentos
 
 Agradecimento especial à OpenAI por fornecer a API do GPT-3.
+
+## Referências
+
+Como configurar e exemplos no: https://platform.openai.com/docs/overview
