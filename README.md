@@ -1,6 +1,6 @@
-# Projeto de Exemplo
+# GPT-API
 
-Bem-vindo ao Projeto de Exemplo! Este repositório contém informações detalhadas sobre o projeto, como configurá-lo e usá-lo.
+Bem-vindo ao GPT-API! Este repositório contém informações detalhadas sobre o projeto, como configurá-lo e usá-lo.
 
 ## Descrição
 
